@@ -1,5 +1,6 @@
 TODO — Happy Smile Dental Clinic - Habay Landing Page
 Generated: 2026-05-18
+Updated: 2026-05-19
 Layout: Layout 3 — Trust-First Professional
 ========================================
 
@@ -29,14 +30,22 @@ SEO
 [ ] Google Maps embed: Using estimated coordinates (may need verification)
 [ ] Review schema: No actual rating data available
 
+UPDATES COMPLETED ✓
+-------------------
+✓ Updated address: 205 Habay 1 Tirona Highway, Bacoor, Cavite 4102
+✓ Added Instagram link: @happysmiledentalclinic
+✓ Updated JSON-LD with full address and Instagram
+✓ Committed and pushed to GitHub (auto-deployment triggered)
+
 ALL DONE ✓
 -----------
 ✓ Business name and contact info
 ✓ Services (General Dentistry, Orthodontics, Oral Surgery, Esthetics)
 ✓ Hours of operation
-✓ Address (Daang Bukid, Bacoor, Cavite)
+✓ Address (205 Habay 1 Tirona Highway, Bacoor, Cavite 4102)
 ✓ Phone number (0918 563 1343)
 ✓ Facebook page link
+✓ Instagram link
 ✓ Payment methods (Credit/Debit cards accepted)
 ✓ Parking information
 ✓ Layout 3 structure (Trust-First Professional)
